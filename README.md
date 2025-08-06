@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hi, I'm Surya Ruidas
 
-<!--
-**Surya-1109/Surya-1109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Science Enthusiast | AI Explorer | GATE DA Qualified**
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Postgraduate Student in Big Data Analytics (Data Science & AI) at [RKMVERI](https://cs.rkmvu.ac.in/)  
+📚 B.Sc. (Hons) in Mathematics with Statistics & Computer Science from [RKMRC](https://rkmrc.in)  
+🔬 Passionate about AI, ML, DL, and Data Science  
+🎯 GATE 2025 (Data Science & AI) Qualified  
+📊 Skilled in Python, DSA, Linear Algebra, Probability & Statistics, Time Series, Machine Learning, Deep Learning and Data Analysis
+
+---
+
+## 🛠️ Tech Stack
+
+- 💻 Languages: Python, SQL, R
+- 📊 Libraries/Tools: NumPy, Pandas, Matplotlib, Scikit-learn, PyTorch
+- 📁 Tools: Git, GitHub, Google Colab, Jupyter Notebook
+
+---
+
+## 🚀 Projects
+
+📈 Stock Price Prediction using Machine Learning  
+🩺 Diabetes Prediction using Machine Learning  
+🎯 Facial Emotion Recognition  
+🧠 Brain Tumor Detection using Deep Learning  
+
+---
+
+## 📫 Contact Me
+
+- 📧 **Email**: suryaruidas1729@gmail.com
+- 🔗 [**LinkedIn Profile**](https://www.linkedin.com/in/surya-ruidas-4844932b9/)
+- 🔗 [**Portfolio Website**](https://sites.google.com/view/surya-portfolio-1109/home?authuser=0)
+- 🗂️ [**Resume (Download)**](https://cdn.jsdelivr.net/gh/Surya-1109/CV@main/Surya_Ruidas_CV.pdf?v=latest)
+  
+---
+
+## ⚡ Fun Fact
+
+I'm a math nerd who loves blending theory with AI to solve real-world problems!
+
