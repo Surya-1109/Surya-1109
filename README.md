@@ -21,10 +21,10 @@
 
 ## 🚀 Projects
 
-📈 Stock Price Prediction using Machine Learning  
-🩺 Diabetes Prediction using Machine Learning  
-🎯 Facial Emotion Recognition  
-🧠 Brain Tumor Detection using Deep Learning  
+📈 [Stock Price Prediction using Machine Learning](https://github.com/Surya-1109/Google-Stock-Price-Prediction)   
+🩺 [Diabetes Prediction using Machine Learning](https://github.com/Surya-1109/Diabetes-Prediction)   
+🎯 [Facial Emotion Recognition](https://github.com/Surya-1109/FaceRead-Facial-Emotion-Detection-using-FER-2013)  
+🧠 [Brain Tumor Detection using Deep Learning](https://github.com/Surya-1109/Brain-Tumor-Detection-Using-Deep-Learning)  
 
 ---
 
